@@ -1,0 +1,7 @@
+.codex
+models/logs/
+tests/outputs/
+__pycache__/
+**/__pycache__/
+*.pyc
+third_party/tau2-bench/
